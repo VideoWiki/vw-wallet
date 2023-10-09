@@ -1,0 +1,41 @@
+button {
+    background-color: rgb(215, 215, 252);
+    margin: 10px 20px;
+    padding: 5px 10px;
+    border: 1px black solid;
+    border-radius: 20px;
+    transition: 0.2s;
+}
+button:hover {
+    background-color: rgb(193, 193, 243);
+}
+.walletcreatebtns {
+    position: relative;
+    left: 500px;
+    top: 80%;
+    text-align: center;
+    
+}
+.walletcreatebtns p {
+    font-size: 25px;
+}
+.container {
+    display: flex;
+    margin: auto;
+}
+
+.dropdown {
+    position: absolute;
+}
+
+table {
+    background-color: rgb(234, 234, 251);
+    margin-top: 20px;
+    position: relative;
+    width: 1300px;
+}
+th {
+    position: relative;
+    margin: 5px 10px;
+}
+
